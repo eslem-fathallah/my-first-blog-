@@ -1,0 +1,6 @@
+"myvenv/" 
+"*.pyc" 
+"__pycache__/" 
+myvenv/
+*.pyc
+__pycache__/
